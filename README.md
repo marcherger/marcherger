@@ -15,7 +15,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="50" height="50" /> </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img
-      src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft%20Office%20Excel%20%282019%E2%80%93present%29.svg" alt="excel"
+      src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel"
       width="50" height="50" /> </a>
 <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img
       src="https://cdn.brandfetch.io/latex-project.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" alt="latex"
